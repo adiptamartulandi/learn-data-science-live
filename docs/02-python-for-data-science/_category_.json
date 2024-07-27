@@ -1,0 +1,8 @@
+{
+  "label": "Python for Data Science",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "This section will cover the basics of Python programming language and its libraries for data science."
+  }
+}
