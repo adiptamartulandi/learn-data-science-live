@@ -1,0 +1,8 @@
+{
+  "label": "Machine Learning",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "This section will cover the basics of machine learning for data science."
+  }
+}

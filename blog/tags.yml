@@ -1,0 +1,8 @@
+introduction:
+  label: Introduction
+  permalink: /introduction
+  description: introduction tag description
+data-science:
+  label: Data Science
+  permalink: /data-science
+  description: data science tag description

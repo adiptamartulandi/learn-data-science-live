@@ -1,5 +1,8 @@
 ---
-sidebar_position: 1
+slug: welcome
+title: Welcome to Learn Data Science!
+authors: [adipta]
+tags: [introduction, data-science]
 ---
 
 # Welcome to Learn Data Science!
