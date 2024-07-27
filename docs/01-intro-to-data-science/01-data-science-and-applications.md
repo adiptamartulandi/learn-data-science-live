@@ -5,7 +5,7 @@ sidebar_position: 1
 # Data Science and its Applications
 
 
-![Data Science Image](https://github.com/adiptamartulandi/learn-data-science-live/blob/main/assets/01-intro-ds.jpg)
+![Data Science Image](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/01-intro-ds.jpg)
 *Image by [Leif Christoph Gottwald](https://unsplash.com/@project2204)*
 
 
