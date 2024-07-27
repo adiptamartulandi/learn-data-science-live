@@ -129,7 +129,7 @@ const config = {
     }),
     plugins: [
       [
-        '@docusaurus/plugin-vercel-analytics',
+        'vercel-analytics',
         {
           debug: true,
           mode: 'auto',
