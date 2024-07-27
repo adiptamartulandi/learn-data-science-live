@@ -126,6 +126,15 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      plugins: [
+        [
+          'vercel-analytics',
+          {
+            debug: true,
+            mode: 'auto',
+          },
+        ],
+      ],
     }),
 };
 
