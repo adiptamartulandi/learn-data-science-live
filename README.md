@@ -31,7 +31,7 @@ Ready to embark on your data science journey? Here are a few steps to get you st
 ## Materials and Resource Checklist
 
 - [ ] Introduction to Data Science
-  - [ ] Data Science and its Applications
+  - [x] Data Science and its Applications
   - [ ] Data Science Role and Skills
 - [ ] Python for Data Science
   - [ ] Introduction to Python
