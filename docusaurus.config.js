@@ -135,7 +135,7 @@ const config = {
           mode: 'auto',
         },
       ],
-    ],,
+    ],
 };
 
 module.exports = config;
