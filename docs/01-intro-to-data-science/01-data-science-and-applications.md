@@ -5,7 +5,6 @@ sidebar_position: 1
 # Data Science and its Applications
 
 
-![Data Science Image](URL)
 *Image by [Leif Christoph Gottwald](https://unsplash.com/@project2204)*
 
 
