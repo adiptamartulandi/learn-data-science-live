@@ -53,6 +53,17 @@ const config = {
     ],
   ],
 
+  plugins: [
+    // Other plugins
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -126,15 +137,6 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      plugins: [
-        [
-          'vercel-analytics',
-          {
-            debug: true,
-            mode: 'auto',
-          },
-        ],
-      ],
     }),
 };
 
