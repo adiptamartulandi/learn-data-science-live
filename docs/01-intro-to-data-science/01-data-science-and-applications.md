@@ -2,14 +2,14 @@
 sidebar_position: 1
 ---
 
-# Data Science and its Applications
+# Data Science and its Applications to Business
 
 
 ![Data Science Image](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/01-intro-ds.jpg)
 *Image by [Leif Christoph Gottwald](https://unsplash.com/@project2204)*
 
 
-## 1. Introduction
+## Introduction
 
 ### Definition of Data Science
 Data Science is an interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data. It combines aspects of statistics, mathematics, computer science, and domain-specific knowledge to analyze and interpret complex data.
@@ -24,7 +24,7 @@ In today's data-driven world, Data Science is crucial for several reasons:
 - **Enhanced Customer Understanding**: By analyzing customer data, businesses can gain deeper insights into customer preferences and behaviors, enabling them to tailor their products and services to meet customer needs more effectively.
 - **Problem Solving**: Data Science provides tools and techniques for solving complex problems across various domains, from healthcare to finance to marketing.
 
-## 2. Applications of Data Science
+## Applications of Data Science
 
 ### Healthcare
 Data Science is revolutionizing healthcare by enabling more accurate diagnoses, personalized treatments, and efficient hospital management.
@@ -56,7 +56,7 @@ Data Science enhances transportation systems by optimizing routes, predicting de
 
 - **Autonomous Vehicles**: Developing self-driving cars that use machine learning and sensor data to navigate and make decisions on the road.
 
-## 3. Future Trends in Data Science
+## Future Trends in Data Science
 
 ### The Rise of Generative AI
 Generative AI is emerging as a significant trend in data science, transforming the way data is used to create content, models, and solutions.
@@ -66,3 +66,16 @@ Generative AI is emerging as a significant trend in data science, transforming t
 - **Synthetic Data Generation**: Generative AI is used to create synthetic data for training machine learning models, which is especially useful when real data is scarce or sensitive.
 - **Creative Applications**: Generative AI is being applied in creative fields such as art, music, and design, opening new avenues for innovation and expression.
 - **Personalization**: Generative AI enables highly personalized experiences in areas like marketing, gaming, and entertainment by creating content tailored to individual preferences.
+
+## FAQ
+
+```
+Q: If my company doesn't have data, can I implement data science solutions ?
+A: At the first place you can't, data is the core component in data science solutions.
+   So you need to collect data first.
+```
+
+```
+Q: Can you show me the real case examples of company utilize data science solutions to improve business ?
+A: Yes of course! but in the next sections! so stay tuned.
+```
