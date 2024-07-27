@@ -127,18 +127,15 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-};
-
-export default {
-  plugins: [
-    [
-      'vercel-analytics',
-      {
-        debug: true,
-        mode: 'auto',
-      },
-    ],
-  ],
+    plugins: [
+      [
+        '@docusaurus/plugin-vercel-analytics',
+        {
+          debug: true,
+          mode: 'auto',
+        },
+      ],
+    ],,
 };
 
 module.exports = config;
