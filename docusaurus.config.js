@@ -129,4 +129,16 @@ const config = {
     }),
 };
 
+export default {
+  plugins: [
+    [
+      'vercel-analytics',
+      {
+        debug: true,
+        mode: 'auto',
+      },
+    ],
+  ],
+};
+
 module.exports = config;
