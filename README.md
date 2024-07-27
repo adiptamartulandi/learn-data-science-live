@@ -28,8 +28,21 @@ Ready to embark on your data science journey? Here are a few steps to get you st
 2. **Start a Project**: Apply your knowledge by working on real-world projects and building your portfolio.
 3. **Read Additional Resources**: If you need more resources, just go to **Resources** section
 
-Thank you for joining us on this exciting journey. We can't wait to see what you'll achieve!
+## Materials and Resource Checklist
 
-Happy learning!
-
-The Learn Data Science Team
+- [ ] Introduction to Data Science
+  - [ ] Data Science and its Applications
+  - [ ] Data Science Role and Skills
+- [ ] Python for Data Science
+  - [ ] Introduction to Python
+  - [ ] Basic Python Programming
+  - [ ] Data Structure in Python
+  - [ ] Python Library numpy
+  - [ ] Python Library pandas
+  - [ ] Data Visualization using Matplotlib and Seaborn
+- [ ] Statistics and Math
+  - [ ] Introduction to Descriptive Statistics
+  - [ ] Inference Statistics
+- [ ] Machine Learning
+  - [ ] Supervised Learning
+  - [ ] Unsupervised Learning
