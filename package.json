@@ -24,6 +24,7 @@
   "devDependencies": {
     "@docusaurus/module-type-aliases": "2.0.1"
   },
+  "type": "module",
   "browserslist": {
     "production": [
       ">0.5%",
