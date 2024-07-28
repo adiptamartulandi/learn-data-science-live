@@ -20,4 +20,26 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+}
+
+.greenButton {
+  background-color: white;
+  color: white;
+  border: 4px solid #006400; /* Dark green border */
+}
+
+.greenButton:hover {
+  background-color: greenyellow; /* Optional: for a hover effect */
+  border-color: #004d00; /* Darker green border on hover */
+}
+
+.whiteButton {
+  background-color :white;
+  color: white;
+}
+
+.whiteButton:hover {
+  background-color: greenyellow; /* Optional: for a hover effect */
+  border-color: #004d00; /* Darker green border on hover */
 }

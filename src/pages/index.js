@@ -19,9 +19,14 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons}>
           <Link
-            className="button button--secondary button--lg"
+            className={clsx('button button--secondary button--lg', styles.whiteButton)}
             to="/docs/intro">
-            Lets Get Started!
+            Let's Get Started!
+          </Link>
+          <Link
+            className={clsx('button button--secondary button--lg', styles.greenButton)}
+            to="https://github.com/adiptamartulandi/learn-data-science-live/blob/main/CONTRIBUTING.md">
+            Contribute
           </Link>
         </div>
       </div>
