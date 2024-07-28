@@ -4,6 +4,9 @@ sidebar_position: 2
 
 # Real Examples of Data Science in Business
 
+![Data Science Image](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/02-data-science-case.jpg)
+*Image by [Austin Distel](https://unsplash.com/@austindistel)*
+
 Data science has become a pivotal tool for businesses aiming to leverage data to drive decision-making, improve efficiency, and gain a competitive edge. In this article, we explore how leading companies like Amazon, Youtube, and Others utilize data science to enhance their operations, drive revenue, and customer experiences.
 
 ## Amazon
