@@ -33,7 +33,7 @@ Ready to embark on your data science journey? Here are a few steps to get you st
 - [ ] Introduction to Data Science
   - [x] Data Science and its Applications in Business
   - [x] Real Examples of Data Science in Business
-  - [ ] Data Science Role and Skills
+  - [x] Data Science Role and Skills
 - [ ] Python for Data Science
   - [ ] Introduction to Python
   - [ ] Basic Python Programming

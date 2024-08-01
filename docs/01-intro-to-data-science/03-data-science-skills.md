@@ -2,8 +2,99 @@
 sidebar_position: 3
 ---
 
-# Data Science Role and Skills
+# Data Science Roles and Skills
 
-```python
-on progress ...
+![Data Science Image](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/03-data-science-role.jpg)
+*Image by [Annie Sprat](https://unsplash.com/@anniespratt)*
+
+Data science is a multidisciplinary field that leverages data to drive decision-making and innovation across industries. It encompasses a variety of roles, each with unique responsibilities and required skill sets. This post provides an overview of the primary roles within the data science field, highlights their specific job descriptions, and outlines the essential skills needed to excel in these positions.
+
+## Data Science Roles
+
+In the broad landscape of data science, several key roles contribute to the effective use of data within organizations. The big three of the roles are:
+
+- **Data Scientist**: Develops machine learning algorithms and models to interpret data and solve complex problems.
+- **Data Analyst**: Focuses on interpreting data and providing actionable insights through reporting and visualization.
+- **Data Engineer**: Designs, builds, and maintains the infrastructure and systems that store and process data.
+
+With the advancement of technology and the increasing importance of data in business decision-making, several other roles have emerged, such as:
+
+- **Machine Learning Engineer**: Specializes in implementing machine learning models and algorithms in production environments.
+- **Business Intelligence Analyst**: Uses data analysis tools to inform strategic business decisions.
+- **Data Architect**: Designs and manages the data frameworks and architectures that support data management and analysis.
+- **Analytics Engineer**: Develops data pipelines and systems to support data analysis and reporting.
+- **AI Engineer**: Develops artificial intelligence solutions using deep learning, natural language processing, and other AI technologies.
+
+## Overview of Essential Skills in Data Science
+
+![Data Science Image](https://datarundown.com/wp-content/uploads/2022/04/Skills-Data-Science-1.png)
+*Image by [Datarundown](https://datarundown.com)*
+
+### Statistics and Mathematics
+
+A strong foundation in statistics and mathematics is critical for understanding data, developing models, and deriving insights. These skills enable data practitioner to apply quantitative techniques to analyze data and make data-driven decisions.
+
+- **Importance**: 
+  - **Data Distributions**: Understanding how data is distributed helps in identifying patterns, anomalies, and making predictions.
+  - **Model Building**: Mathematical concepts like linear algebra and calculus are essential for constructing machine learning algorithms and models.
+  - **Interpreting Results**: Statistical techniques enable data scientists to validate their models and ensure the accuracy of their predictions.
+
+- **Key Skills**: 
+  - **Probability**: Understanding the likelihood of different outcomes, which is fundamental for predictive modeling and risk assessment.
+  - **Statistical Analysis**: Using statistical methods to collect, review, and draw conclusions from data.
+  - **Hypothesis Testing**: Evaluating assumptions and theories by testing hypotheses to make informed decisions.
+  - **Linear Algebra**: Essential for understanding and implementing many machine learning algorithms, especially those involving large datasets.
+  - **Calculus**: Important for understanding changes in data and optimizing algorithms.
+
+### Computer Science: Programming and Database Management
+
+Proficiency in programming and database management is crucial for manipulating data, building models, and managing data systems. These skills are the backbone of any data science project, enabling data practitioner to automate tasks, analyze large datasets, and implement solutions.
+
+- **Importance**:
+  - **Data Manipulation**: Programming skills allow data scientists to clean, transform, and prepare data for analysis.
+  - **Data Analysis**: Writing scripts and using libraries to analyze data, perform statistical tests, and visualize results.
+  - **Data Retrieval**: Database management skills are essential for extracting data from various sources and ensuring its integrity.
+
+- **Key Skills**:
+  - **Proficiency in Python and R**: These are the most popular languages for data science due to their extensive libraries and frameworks for data manipulation, analysis, and machine learning.
+  - **SQL**: Essential for querying databases and retrieving data efficiently.
+  - **Experience with Databases**: Knowledge of relational databases like MySQL and PostgreSQL, and NoSQL databases like MongoDB, for storing and managing large datasets.
+
+### Business Sense
+
+A deep understanding of business context is vital for data practitioner to ensure their work aligns with organizational goals and drives value. This involves translating technical insights into actionable business strategies.
+
+- **Importance**:
+
+  - **Aligning with Organizational Goals**: Ensuring that data science projects support the overall business strategy and objectives.
+  - **Driving Value**: Using data insights to identify opportunities for improvement, innovation, and competitive advantage.
+  - **Making Informed Decisions**: Providing data-driven recommendations that influence business decisions and strategies.
+
+- **Key Skills**:
+
+  - **Understanding Business Operations**: Knowledge of how different parts of the business function and their data needs.
+  - **Strategic Thinking**: Ability to see the bigger picture and understand how data insights fit into the organization's long-term strategy.
+  - **Translating Data Insights into Actions**: Communicating technical findings in a way that is understandable and actionable for business stakeholders.
+
+Data science is a field that requires a diverse set of skills and a deep understanding of various roles within the data ecosystem. Whether you're a data scientist, analyst, or engineer, mastering these skills will position you for success in leveraging data to drive innovation and growth.
+
+## FAQ
+3
 ```
+Q: What programming languages are most important for data scientists?
+A: Python and R are the most commonly used programming languages in data science due to their extensive libraries and frameworks for data analysis and machine
+   learning.
+```
+
+```
+Q: Do I need a Ph.D. to become a data scientist?
+A: While a Ph.D. can be beneficial, it is not a strict requirement. Many data scientists have advanced degrees (Master's or Bachelor's) in fields like computer 
+   science, statistics, or engineering, along with relevant experience and skills.
+```
+
+```
+Q: How important is domain knowledge in data science?
+A: Domain knowledge is crucial as it helps data professionals understand the context of the data, identify relevant insights, and make informed recommendations 
+   that align with business objectives.
+```
+
