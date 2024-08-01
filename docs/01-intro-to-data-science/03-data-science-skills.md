@@ -79,7 +79,7 @@ A deep understanding of business context is vital for data practitioner to ensur
 Data science is a field that requires a diverse set of skills and a deep understanding of various roles within the data ecosystem. Whether you're a data scientist, analyst, or engineer, mastering these skills will position you for success in leveraging data to drive innovation and growth.
 
 ## FAQ
-3
+
 ```
 Q: What programming languages are most important for data scientists?
 A: Python and R are the most commonly used programming languages in data science due to their extensive libraries and frameworks for data analysis and machine
