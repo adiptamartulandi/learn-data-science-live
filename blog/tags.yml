@@ -6,3 +6,7 @@ data-science:
   label: Data Science
   permalink: /data-science
   description: data science tag description
+weekly-digest:
+  label: Weekly Digest
+  permalink: /weekly-digest
+  description: weekly digest tag description
