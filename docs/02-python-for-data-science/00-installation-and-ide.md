@@ -1,11 +1,10 @@
 ---
 sidebar_position: 1
 ---
+# Python Installation and IDE
 
 ![Python Programming Image](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/04-python.jpg)
 *Image by [Rubaitul Azad](https://unsplash.com/@rubaitulazad)*
-
-# Python Installation and IDE
 
 Python is a high-level, interpreted programming language created by Guido van Rossum and first released in 1991. Known for its readability and simplicity, Python has become one of the most popular programming languages in the world. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python's design philosophy emphasizes code readability and the use of significant indentation. Python is one of the most popular programming language that being used in Data Science field. You can read more about python at https://www.python.org/.
 
