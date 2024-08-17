@@ -35,6 +35,8 @@ Ready to embark on your data science journey? Here are a few steps to get you st
   - [x] Real Examples of Data Science in Business
   - [x] Data Science Role and Skills
 - [ ] Python for Data Science
+  - [x] Python Installation and IDE
+  - [x] Anaconda, Virtual Environment, and Jupyter Notebook
   - [ ] Introduction to Python
   - [ ] Basic Python Programming
   - [ ] Data Structure in Python
