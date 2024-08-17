@@ -20,7 +20,7 @@ Anaconda is a popular Python and R distribution designed specifically for data s
     - **Environment management:** It enables you to create isolated environments for different projects, preventing package conflicts.
     - **Jupyter Notebook integration:** Anaconda comes bundled with Jupyter Notebook, a powerful interactive computing environment.
 
-To install anaconda please go to their website at (https://www.anaconda.com/download) and submit your email. Anaconda can run on Windoes, MacOs, and Linux. Here is snippet of Anaconda user interface:
+To install anaconda please go to their website at (https://www.anaconda.com/download) and submit your email. Anaconda can run on Windows, MacOs, and Linux. Here is snippet of Anaconda user interface:
 
 ![Anaconda UI](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/05-01-anaconda-ui.png)
 *Image by Author*
@@ -29,7 +29,7 @@ As you can see, in Anaconda there are various tools that can support your data s
 
 ## Virtual Environment
 
-A virtual environment is an isolated workspace where you can install specific Python packages without affecting your global Python installation system's. This is crucial for managing project dependencies and avoiding conflicts between different projects.
+A virtual environment is an isolated workspace where you can install specific Python packages without affecting your global Python installation. This is crucial for managing project dependencies and avoiding conflicts between different projects.
 
 **Why use virtual environments:**
 
@@ -61,8 +61,9 @@ Jupyter Notebook is an open-source web application that allows you to create and
 - Create a new notebook.
 - Write code in code cells and markdown text in text cells.
 - Use keyboard shortcuts for efficiency (e.g., Shift+Enter to run a cell).
+- For more detailed instructions, refer to the [official Jupyter Notebook documentation](https://jupyter-notebook.readthedocs.io/en/stable/).
 
 ![Jupyter Notebook](https://raw.githubusercontent.com/adiptamartulandi/learn-data-science-live/main/assets/05-03-notebook.png)
 *Image by Author*
 
-Anaconda, virtual environments, and Jupyter Notebook form a powerful combination for data scientists. By understanding and utilizing these tools effectively, you can streamline your workflow, manage project dependencies, and create reproducible and shareable data analysis projects. All of these are just a few tools that can be used by data scientists, there are so many tools out there that can be used and it all depends on what your needs are!
+Anaconda, virtual environments, and Jupyter Notebook form a powerful combination for data scientists. By understanding and utilizing these tools effectively, you can streamline your workflow, manage project dependencies, and create reproducible and shareable data analysis projects. While these are essential tools for data scientists, many others are available depending on specific project needs.
